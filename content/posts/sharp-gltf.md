@@ -1,6 +1,11 @@
 ---
 title: "Model importer using SharpGLTF for OpenTK"
 date: 2026-01-13T18:02:20+00:00
+description: "Short guide on SharpGLTF and importing models using it."
+
+tags: ["c#", "3d", "opentk", "guide"]
+categories: ["guide"]
+
 draft: false
 ---
 
