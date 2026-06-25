@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Scruffie&#39;s Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Scruffie&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Jan 2026 18:02:20 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Model importer using SharpGLTF for OpenTK</title>
+      <link>http://localhost:1313/posts/sharp-gltf/</link>
+      <pubDate>Tue, 13 Jan 2026 18:02:20 +0000</pubDate>
+      <guid>http://localhost:1313/posts/sharp-gltf/</guid>
+      <description>&lt;h1 id=&#34;model-importer-using-sharpgltf-for-opentk&#34;&gt;Model importer using SharpGLTF for OpenTK&lt;/h1&gt;
+&lt;p&gt;Hey! This blog would be how I implemented a model importer using SharpGLTF that imports .glb as raw data that we can then render using OpenTK. I tried to find a beginner guide on this but there isn&amp;rsquo;t a lot of stuff available apart from the examples (which to be honest proved to be of no use for me)&lt;/p&gt;
+&lt;p&gt;The game engine I&amp;rsquo;ve been working on does not have multiple features so we will only be going over the top.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
