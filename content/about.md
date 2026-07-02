@@ -13,7 +13,7 @@ ShowBreadcrumbs: false
 Welcome to my website. Here, I will usually post **Devlogs**, **Tutorials**, posts about **programming and computer science** in general.
 
 ## About
-I'm a 18-year-old student keenly interested in video games and software development. I'm also interested in music and musical theory even though I'm bad at composing stuff. I also love checking out new stuff in the tech.
+I'm a 18-year-old student interested in video games and software development. I'm also interested in music and musical theory even though I'm bad at composing stuff.
 
 ## Skillset
 I started programming when I was about 11 years old, in C#. Since then I have a moderate experience in Unity and OpenTK. Currently I know C#, Python and C. I'm also getting into Rust.
